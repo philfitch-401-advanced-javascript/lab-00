@@ -37,4 +37,4 @@ endpoint: `/docs`
 * Lint Tests: `npm run lint`
 
 #### UML
-<!--- ![UML Diagram](img.jpg) --->
+![UML Diagram](uml-diagram.png)
